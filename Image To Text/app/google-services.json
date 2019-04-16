@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662343911557",
+    "firebase_url": "https://img2text-4a0dd.firebaseio.com",
+    "project_id": "img2text-4a0dd",
+    "storage_bucket": "img2text-4a0dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662343911557:android:dcbf3b979915ed16",
+        "android_client_info": {
+          "package_name": "com.img2text.jonathanwesterfield.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662343911557-5ma1cgpcqnkrmclg533fmtg8hd0e2f3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjOI9NUowxij67C38_Pi2xz7Sd3Cqr7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662343911557-5ma1cgpcqnkrmclg533fmtg8hd0e2f3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
